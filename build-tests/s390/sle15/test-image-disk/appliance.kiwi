@@ -136,9 +136,6 @@
         <package name="glibc"/>
         <package name="gperf"/>
         <package name="gpg-pubkey"/>
-        <package name="gpg-pubkey"/>
-        <package name="gpg-pubkey"/>
-        <package name="gpg-pubkey"/>
         <package name="gpg2"/>
         <package name="gptfdisk"/>
         <package name="grep"/>
